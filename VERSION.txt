@@ -1,3 +1,0 @@
-Texas Specialist Bees & Pollen Hosts
-Version 0.2
-Fowler-only relationship snapshot + optional live iNaturalist sightings
