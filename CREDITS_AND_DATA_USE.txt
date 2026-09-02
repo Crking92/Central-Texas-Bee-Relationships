@@ -1,0 +1,21 @@
+Texas Specialist Bees & Pollen Hosts - v0.3
+
+RELATIONSHIP SOURCE BOUNDARY
+Bee-plant pollen-specialist relationship data in this preview is restricted to the Fowler-derived Texas snapshot from:
+Jarrod Fowler, Pollen Specialist Bees of the Central United States
+https://jarrodfowler.com/bees_pollen.html
+
+INATURALIST
+https://www.inaturalist.org/
+iNaturalist is queried only when a user explicitly requests a live local sighting check for a bee. iNaturalist observations do not create, alter, or validate pollen-host relationships in the bundled relationship dataset.
+
+PUBLIC BIOLOGICAL DATA FIELDS
+bee_name
+bee_family
+plant_name
+plant_family
+
+This preview intentionally excludes source status categories, flight months, taxonomic authorities, descriptive prose, and other source-specific fields pending permission/approval for broader reuse.
+
+TECHNICAL NOTE
+The biological dataset and dashboard JavaScript are embedded directly in index.html so the core dashboard works even when index.html is opened directly from a computer. The CSV is included separately only as a user download/export.

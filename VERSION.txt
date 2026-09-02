@@ -1,0 +1,4 @@
+Texas Specialist Bees & Pollen Hosts
+Version 0.3
+Self-contained runtime build
+Fowler-only bee-plant relationships; iNaturalist only for optional live sightings
