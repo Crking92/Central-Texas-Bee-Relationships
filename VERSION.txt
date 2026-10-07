@@ -1,4 +1,7 @@
 Texas Specialist Bees & Pollen Hosts
-Version 0.3
-Self-contained runtime build
-Fowler-only bee-plant relationships; iNaturalist only for optional live sightings
+Version 0.4.0
+Source retrieved: October 7, 2026
+Multiple-host relationships restored; eight omitted Texas-listed bees added.
+Tentative and family-only records preserved separately; credits and qualified exports added.
+Existing saved garden names preserved.
+PWA cache: texas-specialist-bees-v0-4-20261007
