@@ -1,4 +1,4 @@
-const CACHE = 'texas-specialist-bees-v0-4-20261007';
+const CACHE = 'texas-specialist-bees-v0-5-20261007';
 const PREFIX = 'texas-specialist-bees-';
 const ASSETS = ['./', 'index.html', 'manifest.webmanifest', 'favicon.svg', 'data/bee_plant_names_families.csv', 'data/bee_relationships.json', 'CREDITS_AND_DATA_USE.txt', 'icons/icon-192.png', 'icons/icon-512.png'];
 self.addEventListener('install', event => {

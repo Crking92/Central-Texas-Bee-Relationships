@@ -1,4 +1,4 @@
-Texas Specialist Bees & Pollen Hosts — version 0.4.0
+Texas Specialist Bees & Pollen Hosts — interface version 0.5.0 (dataset 0.4.0)
 
 RELATIONSHIP COMPILATION
 Jarrod Fowler (2020). Pollen Specialist Bees of the Central United States.
@@ -27,3 +27,6 @@ REUSE
 No explicit reuse license was located on the reviewed source pages. Source content is not labelled public domain or Creative Commons by this dashboard, and no new source-content license is granted. Public availability and attribution are not themselves licenses for protected text, photos, or original authorship in a compilation. Individual factual data are distinct from protected expression. This note does not determine the copyright status of a particular compilation. Contact the author about reuse terms where needed for substantial republication or distribution.
 
 Future images require creator credit, original URL, license, license link, and any required modification notice. Site-level credit does not replace image-specific permission.
+
+DESIGN AND COMMON-NAME NAVIGATION
+Layout inspiration: National Wildlife Federation Native Plant Finder (https://nativeplantfinder.nwf.org/) and Xerces Bring Back the Pollinators (https://xerces.org/bring-back-the-pollinators), reviewed October 7, 2026. No website artwork, photographs, logos, or source code are reused. The dashboard illustrations are original decorative SVG motifs, not species identification images. Common names label plant groups, not specific species or additional host evidence. Sources for familiar names include U.S. Fish & Wildlife Service, Top plants for your pollinator garden (https://www.fws.gov/story/top-plants-your-pollinator-garden), and NWF regional plant lists.

@@ -1,6 +1,10 @@
-# Texas Specialist Bees & Pollen Hosts — 0.4.0
+# Texas Specialist Bees & Pollen Hosts — 0.5.0
 
 A self-contained, GitHub Pages-ready dashboard with Fowler-derived source relationships and separate optional iNaturalist sightings.
+
+## Garden discovery interface
+
+Version 0.5.0 adds a warm garden layout, original decorative SVG illustrations, familiar names for selected plant groups, common-name search, and Surprise me discovery. Scientific names, source qualification, saved gardens, comparisons, and sightings remain available. Motion respects reduced-motion preferences. The artwork is decorative, not an identification reference. The dataset remains version 0.4.0.
 
 ## Corrected data
 
@@ -21,6 +25,7 @@ iNaturalist supplies optional sightings only; it does not create or verify host 
 - index.html embeds the application and qualified dataset for direct opening or GitHub Pages.
 - data/bee_relationships.json contains source metadata, counts, and qualified relationships.
 - data/bee_plant_names_families.csv retains the original first four columns and adds rank, qualification, source, and provenance columns.
+- scripts/dashboard.css is the editable stylesheet, embedded during rebuilding.
 - scripts/dashboard.js is the editable application source, embedded during rebuilding.
 - scripts/build_fowler_data.py imports the source with the Python standard library, validates table structure and identity uniqueness, preserves question marks, and regenerates HTML and exports.
 

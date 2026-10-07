@@ -1,7 +1,6 @@
 Texas Specialist Bees & Pollen Hosts
-Version 0.4.0
-Source retrieved: October 7, 2026
-Multiple-host relationships restored; eight omitted Texas-listed bees added.
-Tentative and family-only records preserved separately; credits and qualified exports added.
-Existing saved garden names preserved.
-PWA cache: texas-specialist-bees-v0-4-20261007
+Interface version 0.5.0 · garden discovery redesign
+Dataset version 0.4.0 · Fowler source retrieved October 7, 2026
+329 bees; 1,114 qualified relationships.
+Original garden illustrations; familiar plant names; surprise discovery; reduced-motion support.
+PWA cache: texas-specialist-bees-v0-5-20261007

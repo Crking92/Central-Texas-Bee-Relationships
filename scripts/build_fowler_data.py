@@ -208,6 +208,9 @@ def main():
         before, after = markup.split(marker, 1)
         _, suffix = after.split('</script>', 1)
         markup = before + marker + '\n' + app_source.read_text(encoding='utf-8') + '\n</script>' + suffix
+    css_source = ROOT / 'scripts/dashboard.css'
+    if css_source.exists():
+        markup = re.sub(r'<style>.*?</style>', lambda _: '<style>\n' + css_source.read_text(encoding='utf-8') + '</style>', markup, count=1, flags=re.S)
     page.write_text(markup, encoding='utf-8')
     print(json.dumps(bundle['counts'], indent=2))
 
